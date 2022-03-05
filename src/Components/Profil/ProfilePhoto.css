@@ -1,0 +1,22 @@
+.picture{
+    display: flex;
+    justify-content: center;
+    background-color: blueviolet;
+    height: 300px;
+    width: 280px;
+    margin-top: 5rem;
+    border-top-right-radius: 50%;
+    border-bottom-right-radius:50% ;
+    border-bottom-left-radius:50% ;
+
+}
+
+.box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+img{
+    border-radius: 50%;
+}
